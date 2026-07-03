@@ -48,8 +48,20 @@ The bottom table automatically lists all customers who have not made a single pu
 
 ---
 
-## 🚀 How to Run this Project Locally
+## How to Run this Project Locally
 
 1. Make sure you have python installed along with the required libraries:
-   ```bash
+   
    pip install streamlit pandas matplotlib
+
+2. Run the application from your terminal or command prompt:
+   
+   streamlit run retention_app.py
+   
+3. Access the Analytical Dashboard:
+Open your web browser and navigate to the local hosting interface:
+
+Code snippet
+http://localhost:8501
+
+Developed as a data-driven operational solution for managing enterprise e-commerce user lifecycles and retention paths.
