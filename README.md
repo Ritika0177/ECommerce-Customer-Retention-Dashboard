@@ -4,7 +4,7 @@
 
 This is an operational data pipeline and interactive analytics dashboard built to monitor and analyze customer churn for e-commerce platforms. The project connects a structured relational database with an easy-to-use web interface, helping operations managers identify inactive users and take timely action to improve customer retention.
 
----
+--
 
 ## Tech Stack & Tools Used
 
